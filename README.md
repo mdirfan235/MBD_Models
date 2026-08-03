@@ -24,26 +24,6 @@ The objective of this repository is to bridge the gap between theoretical contro
 
 ---
 
-## Repository Structure
-
-The repository includes models covering topics such as:
-
-* Vehicle Plant Modeling
-* Cruise Control System
-* Electric Power Steering (EPS)
-* Engine and Transmission Models
-* Driver Input Models
-* PWM Generation
-* DC Motor Control
-* Software-in-the-Loop (SIL)
-* Embedded C Code Generation
-* Controller Development
-* Stateflow Logic
-
-
-Each project is organized into its own folder with the required models, scripts, and supporting files whenever applicable.
-
----
 
 ## Learning Objectives
 
